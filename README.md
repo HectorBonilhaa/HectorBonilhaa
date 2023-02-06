@@ -7,7 +7,7 @@
 Sou formado em Relações Internacionais e atualmente participo do curso de Desenvolvedor FullStack do Serratec (Parque Tecnológico da Região Serrana)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/hector-oliveira-223780a6/)
+)](https://www.linkedin.com/in/hector-oliveira-8235951a3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/hectorbonilhaa/)
 
