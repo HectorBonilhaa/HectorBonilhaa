@@ -1,10 +1,9 @@
-### Hi there 👋
 
 
+## Olá, eu sou o Hector de Oliveira 👋
 
-## Olá, eu sou o Hector 👋
-
-Sou formado em Relações Internacionais e atualmente participo do curso de Desenvolvedor FullStack do Serratec (Parque Tecnológico da Região Serrana)
+Sou formado em Relações Internacionais e atualmente concluí o curso de Desenvolvedor FullStack do Serratec (Parque Tecnológico da Região Serrana)
+E agora eu busco me aprimorar cada vez mais, para contribuir para a sociedade através da programação!!
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/hector-oliveira-8235951a3/)
